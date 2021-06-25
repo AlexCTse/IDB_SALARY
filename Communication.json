@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "type": "sankey",
+            "domain": {
+                "x": [
+                    0,
+                    1
+                ],
+                "y": [
+                    0,
+                    1
+                ]
+            },
+            "orientation": "h",
+            "valueformat": ".0f",
+            "valuesuffix": "TWh",
+            "node": {
+                "pad": 15,
+                "thickness": 15,
+                "line": {
+                    "color": "black",
+                    "width": 0.5
+                },
+                "label": [
+                    "Confirmation",
+		   "Confirmation",
+		   "Confirmation",
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Information",
+		   "Information",
+		   "Information",
+		   "Information"]
+                ],
+            "link": {
+                "source": [
+                    0,
+                    1,
+                    2,
+                    0,
+                    0,
+                    1,
+                    2,
+                    2,
+                    1,
+                    0,
+                    0,
+                    1,
+                    2,
+                    1,
+                    0,
+                    2,
+                    1,
+                    2,
+                    0,
+                    2
+                ],
+                "target": [
+                    5,
+                    5,
+                    5,
+                    3,
+                    4,
+                    4,
+                    4,
+                    5,
+                    5,
+                    3,
+                    4,
+                    4,
+                    4,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5,
+                    6
+                ],
+                "value": [
+                    100,
+                    100,
+                    100,
+                    50,
+                    50,
+                    50,
+                    50,
+                    30,
+                    30,
+                    10,
+                    45,
+                    20,
+                    20,
+                    60,
+                    45,
+                    60,
+                    100,
+                    100,
+                    100,
+                    30,
+                ],
+]
+}
