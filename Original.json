@@ -23,28 +23,27 @@
                     "width": 0.5
                 },
                 "label": [
-                    "Agricultural 'waste'",
-                    "Bio-conversion",
-                    "Liquid",
-                    "Losses",
-                    "Solid",
-                    "Gas",
-                    "Biofuel imports",
-                    "Biomass imports",
-                    "Coal imports",
-                    "Coal",
-                    "Coal reserves",
-                    "District heating",
-                    "Industry",
-                    "Heating and cooling - commercial",
-                    "Heating and cooling - homes",
-                    "Electricity grid",
-                    "Over generation / exports",
-                    "H2 conversion",
-                    "Road transport",
-                    "Agriculture",
-                    "Rail transport",
-                    "Lighting & appliances - commercial",
+                    "Confirmation",
+		            "Confirmation",
+		   "Confirmation",
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Interaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Transaction"
+		   "Information",
+		   "Information",
+		   "Information",
+		   "Information",
                     "Lighting & appliances - homes",
                     "Gas imports",
                     "Ngas",
